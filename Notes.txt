@@ -1,0 +1,118 @@
+Bootstrap 5 is the newest version of BootStrap.Which is most popular HTML,CSS and JavaScript framework for creating responsive , mobile first website.
+
+Bootstrap 5 is completely free to download and use.
+
+What is Responsive Web Design?
+	Responsive Web Design is about creating web site which automatically adjust themselves to look good on all 	devices from small phones to large desktops.
+
+Why use Bootstrap?
+	-Easy to use
+	-Responsive features
+	-Mobile first approach
+	-Browser compatibility
+
+CDN:-Content delivery network
+
+Container:
+	Bootstrap 5 also requires a containing element to wrap site content.
+	
+	There are two container classes
+		1 .container class provides a responsive fixed width container.
+			container-sm
+			container-md
+			container-lg
+			container-xl
+			container-xxl
+		2 .container-fluid class provides a full width container.spanning the entire width of view port.
+
+
+Grid System
+	Bootstrap has 12 columns
+	
+	The bootstrap 5 grid system has six classes
+		1 .col (extra small devices-screen width less than 576px)
+		2 .col-sm (small devices-screen width equal to or greater than 576px)
+		3 .col-md (medium devices-screen width is equal to or greater than 768px)
+		4 .col-lg (large device-screen width equals or greater than 992px)
+		5 .col-xl (xlarge devices-screen width equal to greater than 1200px)
+		6 .col-xxl (xxlarge device-screen width equal to or greater than 1400px)
+
+Bootstrap 5 has some contexual classes that can be used to provide "meaning through colors"
+
+The classes for text colors are
+	.text-muted
+	.text-primary
+	.text-success
+	.text-info
+	.text-warning
+	.text-danger
+	.text-secondary
+	.text-white
+	.text-dark
+	.text-body(default body color/often black)
+	.text-light
+
+The classes for background colors are:
+	.bg-primary
+	.bg-success
+	.bg-info
+	.bg-warning
+	.bg-danger
+	.bg-secondary
+	.bg-dark
+	.bg-light
+
+Bootstrap Table:
+	.table class adds basic styling to table
+	.table-striped class add zebra-stripes to a table
+	.table-bordered class adds border on all sides of the table and cells
+	.table-hover class adds a hover effect(grey background color) on table rows
+	.table-dark class adds a black background to the table
+	
+Bootstrap Images:
+	.rounded
+	.rounded-circle
+	.img-thumbnail
+
+Alert:
+	.alert-success
+	.alert-info
+	.alert-warning
+	.alert-danger
+	.alert-primary
+	.alert-secondary
+	.alert-light
+	.alert-dark
+
+
+Button
+
+Button-group
+	Bootstrap 5 allows us to group a series of buttons together(on a single line) in a button group
+
+Progress Bar 
+	can be used to show how far a user is in process.
+
+.progress
+.progress-bar
+
+List group
+	The most basic list group is an unordered list with the list item.
+	
+	.list-group
+	.list-group-item
+
+Cards
+	
+
+Dropdown
+
+Navigation
+	.nav
+	.nav-item
+	.nav-link
+
+
+
+
+	
